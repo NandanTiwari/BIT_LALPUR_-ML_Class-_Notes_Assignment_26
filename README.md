@@ -16,7 +16,7 @@ Welcome to the official repository for the Machine Learning course at Birla Inst
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
-* **Libraries:** NumPy, Pandas, Matplotlib, Scikit-Learn
+* **Libraries:** NumPy, Pandas, polars, opendatasets, datasets, Matplotlib, seaborn, Scikit-Learn
 
 ## ⚖️ License & Disclaimer
 This repository is intended strictly for personal learning and academic reference. Please adhere to institutional anti-plagiarism guidelines before referencing code for your direct evaluations.
